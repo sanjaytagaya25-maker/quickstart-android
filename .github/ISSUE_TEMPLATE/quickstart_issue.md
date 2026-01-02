@@ -1,4 +1,4 @@
----
+gh repo clone firebase/quickstart-android---
 name: ⚠️ Issue with the quickstart code
 about:
   Are you having issues running the code in this repository?
